@@ -1,8 +1,7 @@
 # HNSCC_Survival
 Data Preprocessing and analysis for Head and Neck Squamous Cell Carcinoma using Keras
 
-
-##ANN has the options to run headless from the command line, and the random resampling attribute can be toggled
+## ANN has the options to run headless from the command line, and the random resampling attribute can be toggled
 
 ## Data Source: 
 https://wiki.cancerimagingarchive.net/display/Public/HNSCC
